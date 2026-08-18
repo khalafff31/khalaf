@@ -1,0 +1,7 @@
+name: jadwali_pro
+description: تطبيق الجدول المدرسي
+version: 1.0.0+1
+environment: {sdk: '>=3.0.0 <4.0.0'}
+dependencies: {flutter: {sdk: flutter}, shared_preferences: ^2.2.3, pdf: ^3.10.8, printing: ^5.11.2}
+flutter: {uses-
+-design: true}
